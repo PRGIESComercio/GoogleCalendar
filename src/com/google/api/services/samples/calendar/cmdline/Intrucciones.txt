@@ -1,0 +1,6 @@
+1. Entrar en googleCalendar y crearse un nuevo calendario
+2. Entrar en google console y crear un nuevo proyecto
+3. Activar el API de Calendar
+4. Recoger las credenciales JSON del proyecto
+5. La primera vez creará un directorio donde mete credenciales y fichero JSON
+6. Posteriormente si cambiamos esto debemos de borrar el directorio
